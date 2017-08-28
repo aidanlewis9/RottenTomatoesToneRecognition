@@ -1,4 +1,5 @@
-# begin
+# Note: when determining most skewed words, proper nouns (movie names, director/actor/character names, etc.) were removed (for example: Moonrise, Alfonso, Cuaron, Katniss, etc.)
+
 moonrise 36.9617452418
 alfonso 31.4859311319
 richest 28.748024077
